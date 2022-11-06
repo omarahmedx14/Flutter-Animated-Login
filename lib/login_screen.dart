@@ -13,9 +13,6 @@ class LoginScreen extends StatefulWidget {
 }
 
 class _LoginScreenState extends State<LoginScreen> {
-
-
-  
   Artboard? riveArtboard;
   late RiveAnimationController controllerIdle;
   late RiveAnimationController controllerHandsUp;
