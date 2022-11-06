@@ -1,6 +1,6 @@
 # :art:   Flutter Animated Login Screen
 
-## YouTube ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYiZceCCbaRLP27U5RXRHog?label=Omar%20Ahmed&style=social) : 
+## YouTube Video ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYiZceCCbaRLP27U5RXRHog?label=Omar%20Ahmed&style=social) : 
 
 https://www.youtube.com/watch?v=jyQNkfZpbu0&lc=Ugxhy-avy7Y-yHLfZQ94AaABAg
 
